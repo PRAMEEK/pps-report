@@ -1,4 +1,4 @@
-! gne (https://raw.githubusercontent.com/PRAMEEK/pps-report/master/download.png)
+!(gne)(https://raw.githubusercontent.com/PRAMEEK/pps-report/master/download.png)
 # Programming For Problem Solving(ESC-105)
 
 -----
