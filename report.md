@@ -1,4 +1,4 @@
-!(gne)(https://raw.githubusercontent.com/PRAMEEK/pps-report/master/download.png)
+!(gne)
 # Programming For Problem Solving(ESC-105)
 
 -----
@@ -10,5 +10,8 @@ Class:Electrical Engineering (B)
 Class/University Roll no: 1916090/1905136
 
 Branch:Electrical
+
+-----
+
 
 
