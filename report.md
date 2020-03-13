@@ -26,6 +26,25 @@ printf("Prameek\n");
 return 0;
 
 }
+EXPERIMENT 2
+
+#include <stdio.h>
+
+int main()
+
+{
+    printf("########    ########         ###           ###\n");
+    printf("##      ####         ####     ###        ###\n");
+    printf("##      ####         ####       ###     ###\n");
+    printf("#####   ####         ####        ###   ### \n");
+    printf("##      ####         ####          ##### \n");
+    printf("##      ####         ####       ###     ###\n");
+    printf("##      ####         ####      ###       ###\n");
+    printf("##          ########        ###              ###\n");  
+    
+    return 0;
+    
+}
 
 
 
