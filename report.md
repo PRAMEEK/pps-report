@@ -68,4 +68,28 @@ printf("######\n");
  
 }
 
+EXPERIMENT 4
+include <stdio.h>
+
+int main()
+
+{ 
+
+int a ,b,s ;
+
+printf("\nenter first number");
+
+scanf("%d" ,&a);
+
+printf("\nenter second number");
+
+scanf("%d"  ,&b);
+
+s=a+b;
+
+printf("the sum of two number is : %d",s);
+
+return 0;
+
+}
 
