@@ -1,4 +1,4 @@
-![download.png](https://raw.githubusercontent.com/PRAMEEK/pps-report/master/download.png)
+![logo.png](http://www.gndec.ac.in/sites/default/logo.png)
 
 # Programming For Problem Solving(ESC-105)
 
@@ -13,6 +13,17 @@ Class/University Roll no: 1916090/1905136
 Branch:Electrical
 
 -----
+Experiment 1
+
+#include <stdio.h>
+
+{
+
+printf("Prameek\n");
+
+return 0;
+
+}
 
 
 
