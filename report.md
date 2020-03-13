@@ -15,6 +15,8 @@ Branch:Electrical
 -----
 Experiment 1
 
+```C
+
 #include <stdio.h>
 
 {
